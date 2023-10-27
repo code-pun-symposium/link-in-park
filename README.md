@@ -3,8 +3,9 @@
 目前用key-value pair格式，数据规范有待提升
 
 ## CV
-(mmsegmentation)[https://github.com/open-mmlab/mmsegmentation/tree/main]: 开源语义分割工具箱
-(pytorch深度学习实战/Deep Learning with PyTorch)[https://livebook.manning.com/book/deep-learning-with-pytorch/chapter-1/]
+[mmsegmentation](https://github.com/open-mmlab/mmsegmentation/tree/main): 开源语义分割工具箱
+
+[pytorch深度学习实战/Deep Learning with PyTorch](https://livebook.manning.com/book/deep-learning-with-pytorch/chapter-1/):一本书，可在线阅读
 
 ## NLP
 
