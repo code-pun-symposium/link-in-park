@@ -7,7 +7,7 @@
 
 [pytorch深度学习实战/Deep Learning with PyTorch](https://livebook.manning.com/book/deep-learning-with-pytorch/chapter-1/):一本书，可在线阅读
 
-[动手深度学习/Dive into Deep Learning](https://d2l.ai/):袋代码的深度学习教程，用来夯实基础
+[动手深度学习/Dive into Deep Learning](https://d2l.ai/):包含代码的深度学习教程，用来夯实基础
 
 ## NLP
 
