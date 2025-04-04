@@ -13,6 +13,10 @@
 
 ## Cyber Security
 
+[零知识证明 Zero-knowledge proof](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
+
+[同态加密 Homomorphic Encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
+
 ## Interview
 
 ## Data
